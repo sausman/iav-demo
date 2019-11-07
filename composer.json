@@ -1,0 +1,5 @@
+{
+    "require": {
+        "dwolla/dwollaswagger": "^1.2"
+    }
+}
